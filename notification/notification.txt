@@ -1,7 +1,3 @@
-- Nếu dùng chứng chỉ free ( tải từ khoidvn hay bất kỳ nguồn free nào ) thì bỏ qua bước tải signbox-MT vì bật sẽ làm mất chứng chỉ, lỗi app, không bật đồng nghĩa với việc bớt anti hơn.
+- Nếu dùng chứng chỉ free ( tải từ khoidvn hay bất kỳ nguồn free nào ) thì bỏ qua bước tải signbox-MT vì bật sẽ làm mất chứng chỉ, lỗi app, không bật đồng nghĩa với việc bớt anti hơn
 
-- Muốn an toàn nhất thì nên để setting gốc có thể chỉnh vòng Fov to thêm <200.
-
-- Cần key lâu dài có thể ib zalo - tiktok - facebook của mình ( Nguyễn Thành Nam / Bêu ).
-
-- Chơi ổn thì nhớ gửi feedback vào Zalo hoặc Discord nhé. Thanks!!!
+- Game đang quét nên khuyến khích mọi người tìm mua chứng chỉ để dùng signbox-MT nhé
