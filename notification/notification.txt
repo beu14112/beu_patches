@@ -1,4 +1,5 @@
                                                                 ĐỌC KĨ ĐI MẤY CON VK
+
 - Đã update file bypass mới mọi người vào phần lấy file/ get file trong app để lấy file mới nhé, quên cách cài vào box ib Nguyễn Thành Nam mình hướng dẫn.
 - Do game đang căng mọi người có thể xóa game đi tải lại cho clean nhé, và test trước bằng acc khách nếu acc khách ban trong app có reset acc khách.
 - Mọi người test xong có thể gửi feedback riêng cho mình để mình cập nhật tình hình nhé. Thankss!!!
