@@ -1,2 +1,2 @@
-- Lại đóng chờ update nhé, mở ra lại nghịch ban khổ lắm 
-- key sẽ được cộng thêm thời gian cho lần mở lại nên mng yên tâm
+- Thật sự là muốn test kĩ mới mở nhưng đa số ae muốn mình mở lại nên mình mở nhé ae test clone trước.
+- Chơi cùng Signbox và file bypass mới ( bypass5-10 ), có thể không cần tắt vì nó không ảnh hưởng gì nhiều tới mạng
