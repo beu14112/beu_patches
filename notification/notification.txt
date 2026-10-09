@@ -1,11 +1,7 @@
-THÔNG BÁO 3h36 8/10
+THÔNG BÁO 10/10
 
-- KEY FREE VÔ THỜI HẠN: BEU-BE-BONG.
+- Update mới nhất: Fix lỗi dame tiểu liên, tự vào game khi tải xong mod, thông báo inject, xóa file rác.
 
-- Tình hình là ngủ dậy khôn hơn hay sao nhưng mà fix được lỗi dame tiểu liên rồi nhé.
-
-- Game quét DNS/VPN nên mọi người thử tắt signbox test thử ( tư duy ngược =)) ).
+- Không cần dùng Singbox khi chơi.
 
 - Thấy 1 số ae feedback bắn phòng cả tuần chưa sao, nên có thể phòng đang safe, rank risk vo lo.
-
-- Đang cố tìm ra method an toàn cho mấy bêu con comeback.
