@@ -1,7 +1,5 @@
-THÔNG BÁO 10/10
+THÔNG BÁO 13/10
 
-- Update mới nhất: Fix lỗi dame tiểu liên, tự vào game khi tải xong mod, thông báo inject, xóa file rác.
+- Game quét nên mình tạm đóng sever chứ không phải lỗi hay hết hạn key, thời gian sẽ được cộng lại đủ khi mở
 
-- Không cần dùng Singbox khi chơi.
-
-- Hiện tại minh không có/ nhận CTV bán key nào, mình chỉ có 1 tik tok duy nhất là @BEU1411 mọi kênh khác nhận là CTV là fake/ scam 
+- Tạm dừng bán key cho đến khi có thông báo mới nhất
