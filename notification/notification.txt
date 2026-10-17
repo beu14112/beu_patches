@@ -2,8 +2,8 @@ THÔNG BÁO 17/10
 
 - Do game đã detect khá mạnh dạng IPA, nên hiện tại sẽ ngừng update cho bản IPA thay vào đó sẽ nghiên cứu và triển khai sang dạng Proxy trong thời gian sớm nhất (maybe).
 
-- Vẫn mở bán key bình thường cho dạng IPA + sử dụng mẹo trong box Zalo để anti.
+- Vẫn mở bán key bình thường cho dạng IPA + sử dụng mẹo trong box Zalo để anti, các key còn hạn sau khi có bản cập nhật mới sẽ được đồng bộ và không mất.
 
-- Có thông tin mới mình sẽ cập nhật ở box.
+- Thông tin mới gì mình sẽ cập nhật ở box.
 
 - Có khi mình update qua Proxy thì game cũng detect =)) Soon...
