@@ -1,5 +1,9 @@
-THÔNG BÁO 15/10
+THÔNG BÁO 17/10
 
-- Sử dụng mẹo mới nhất để chơi ở trong box Zalo, sai = ban
+- Do game đã detect khá mạnh dạng IPA, nên hiện tại sẽ ngừng update cho bản IPA thay vào đó sẽ nghiên cứu và triển khai sang dạng Proxy trong thời gian sớm nhất (maybe).
 
-- Đã mở bán lại key 
+- Vẫn mở bán key bình thường cho dạng IPA + sử dụng mẹo trong box Zalo để anti.
+
+- Có thông tin mới mình sẽ cập nhật ở box.
+
+- Có khi mình update qua Proxy thì game cũng detect =)) Soon...
