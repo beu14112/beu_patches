@@ -1,6 +1,7 @@
 {
-  "latestVersion": "2.0.3",
-  "latestBuild": 10,
-  "title": "Có phiên bản mới",
-  "message": "BEU 2.0.3 đã có. Hãy liên hệ để nhận file IPA mới."
+  "latestVersion": "2.0.5",
+  "latestBuild": 12,
+  "minimumBuild": 12,
+  "title": "Yêu cầu cập nhật",
+  "message": "Phiên bản BEU đã cũ. Vui lòng cài BEU 2.0.5 (build 12) để tiếp tục sử dụng."
 }
